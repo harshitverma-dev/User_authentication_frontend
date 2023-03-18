@@ -1,0 +1,8 @@
+@media screen and (max-width: 669px) {
+    .navbarWrap {
+        display: flex;
+        flex-direction: column;
+        padding-top: 10px;
+    }
+}
+
